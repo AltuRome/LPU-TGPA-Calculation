@@ -137,8 +137,8 @@ class calculateTGPA
             }
 
             try {
-                int num1 = semester.valueOf(subject.toString()).credit;
-                int num2 = grade.valueOf(updatedGrade.toString()).point;
+                semester.valueOf(subject.toString());
+                grade.valueOf(updatedGrade.toString());
             }
             catch (IllegalArgumentException e) {
                 System.out.println(Colours.ANSI_RED + "ERROR: Please enter valid Subject and Grade details!\n" + Colours.ANSI_RESET);
