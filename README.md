@@ -29,10 +29,10 @@ Opening CMD
 [![Screenshot-6.png](https://i.postimg.cc/9Qh2S5L6/Screenshot-6.png)](https://postimg.cc/D8BRJDk6)
 
 Compiling the file
-[![Screenshot-7.png](https://i.postimg.cc/j2vMxfH0/Screenshot-7.png)](https://postimg.cc/y3gmnkpv)
+[![Screenshot-2025-03-24-104510.png](https://i.postimg.cc/kXgBL4pP/Screenshot-2025-03-24-104510.png)](https://postimg.cc/kDLJbnCT)
 
 Running the class file
-[![Screenshot-8.png](https://i.postimg.cc/ZY3Gpsc0/Screenshot-8.png)](https://postimg.cc/NLsCw4Zw)
+[![Screenshot-2025-03-24-104548.png](https://i.postimg.cc/3xyWJqhL/Screenshot-2025-03-24-104548.png)](https://postimg.cc/FY4hTD7c)
 ## Related
 
 To create your own exe, you must first convert the Java file to a jar file
