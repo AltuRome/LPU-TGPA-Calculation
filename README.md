@@ -1,7 +1,7 @@
 
 # TGPA Calculator
 
-The Program is used to calculate TGPA for LPU students.
+The Program is mainly made to check how grade changes in each subject will effect the CGPA so subjects for improvement can be taken in a more efficient manner.
 
 
 
