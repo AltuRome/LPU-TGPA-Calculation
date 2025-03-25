@@ -27,7 +27,7 @@ enum semester
     CSE307(1),
     CSE316(3),
     CSE325(1),
-    GEN231(1),
+    GEN231(2),
     PEL136(3),
     
     CSE310(4),
